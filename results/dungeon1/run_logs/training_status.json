@@ -1,0 +1,65 @@
+{
+    "DungeonEscape": {
+        "checkpoints": [
+            {
+                "steps": 4999994,
+                "file_path": "results\\dungeon1\\DungeonEscape\\DungeonEscape-4999994.onnx",
+                "reward": 0.0,
+                "creation_time": 1795042978.0280516,
+                "auxillary_file_paths": [
+                    "results\\dungeon1\\DungeonEscape\\DungeonEscape-4999994.pt"
+                ]
+            },
+            {
+                "steps": 5499987,
+                "file_path": "results\\dungeon1\\DungeonEscape\\DungeonEscape-5499987.onnx",
+                "reward": 0.0,
+                "creation_time": 1795043900.6415029,
+                "auxillary_file_paths": [
+                    "results\\dungeon1\\DungeonEscape\\DungeonEscape-5499987.pt"
+                ]
+            },
+            {
+                "steps": 5999990,
+                "file_path": "results\\dungeon1\\DungeonEscape\\DungeonEscape-5999990.onnx",
+                "reward": 0.0,
+                "creation_time": 1795044839.9234993,
+                "auxillary_file_paths": [
+                    "results\\dungeon1\\DungeonEscape\\DungeonEscape-5999990.pt"
+                ]
+            },
+            {
+                "steps": 6499993,
+                "file_path": "results\\dungeon1\\DungeonEscape\\DungeonEscape-6499993.onnx",
+                "reward": 0.0,
+                "creation_time": 1795045765.5301714,
+                "auxillary_file_paths": [
+                    "results\\dungeon1\\DungeonEscape\\DungeonEscape-6499993.pt"
+                ]
+            },
+            {
+                "steps": 6597018,
+                "file_path": "results\\dungeon1\\DungeonEscape\\DungeonEscape-6597018.onnx",
+                "reward": 0.0,
+                "creation_time": 1795046008.4408407,
+                "auxillary_file_paths": [
+                    "results\\dungeon1\\DungeonEscape\\DungeonEscape-6597018.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 6597018,
+            "file_path": "results\\dungeon1\\DungeonEscape.onnx",
+            "reward": 0.0,
+            "creation_time": 1795046008.4408407,
+            "auxillary_file_paths": [
+                "results\\dungeon1\\DungeonEscape\\DungeonEscape-6597018.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cpu"
+    }
+}
